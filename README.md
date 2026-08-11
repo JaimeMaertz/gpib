@@ -13,7 +13,7 @@ Windows only, since `ni4882.dll` and the NI-488.2 driver themselves are Windows-
 ## Install
 
 ```
-go get github.com/yourusername/gpib
+go get github.com/JaimeMaertz/gpib
 ```
 
 ## Usage
