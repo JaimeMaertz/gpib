@@ -10,7 +10,7 @@
 //
 // A Device is not safe for concurrent use. Serialize calls to a given
 // Device, or add your own locking around it.
-package github.com/JaimeMaertz/gpib
+package gpib
 
 import (
 	"fmt"
